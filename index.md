@@ -5,4 +5,4 @@ Helpful information and resources I've found or created to help with my studies.
 
 ## Pages
 
-[Bog Species ID Helper]({% link ecology/bog_species.html %})
+[Bog Species ID Helper]( bog_species.html )
